@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+requests
+beautifulsoup4
+pandas
+lxml
+=======
+requests
+beautifulsoup4
+pandas
+lxml
+>>>>>>> cf6222b (Initial commit:policy web scraper)
